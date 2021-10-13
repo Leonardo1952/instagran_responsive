@@ -1,4 +1,4 @@
-# instagran_responsive
+# instagram_responsive
 
 A new Flutter project.
 
