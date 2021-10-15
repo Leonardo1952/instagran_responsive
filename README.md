@@ -1,16 +1,12 @@
-# instagram_responsive
+# Responsive Instagram
 
-A new Flutter project.
+Responsive Instagram foi um projeto realizado com o intuito de aprendizagem e prática da linguagem de programação Dart em conjunto com o kit de desenvolvimento de interfaces Flutter. O projeto consistiu em replicar a interface da rede social Instagram de forma responsiva, capaz de um unico código se apresentar bem em diferentes dispositivos e tamanhos de tela. O mesmo se deu com um acompanhamento de um curso que pode ser acessado através do link: https://www.udemy.com/course/responsividade-flutter/ com este projeto e curso foi possível praticar:
 
-## Getting Started
+- Responsive Framework
+- Criação de AppBar responsiva
+- ListView
+- Controle de tela
+- Definições do que aparece e desaparece de acordo com a tela
+- E muitos outros
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Um pouco do resultado: 
