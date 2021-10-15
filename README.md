@@ -12,7 +12,7 @@ Responsive Instagram foi um projeto realizado com o intuito de aprendizagem e pr
 
 ## Um pouco do resultado: :trophy:
 
-[![Video demonstração](https://res.cloudinary.com/marcomontalbano/image/upload/v1634326608/video_to_markdown/images/youtube--LUEYYk3dY3Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/LUEYYk3dY3Q "Video demonstração")
+![Gif](https://github.com/Leonardo1952/instagran_responsive/blob/master/assets/demostration/video_demonstracao.gif)
 
 ## Ferramentas :hammer_and_wrench:	
 
