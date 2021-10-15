@@ -23,7 +23,7 @@ class ResponsiveMenuAction extends StatelessWidget {
         const SizedBox(width: 16),
         const CircleAvatar(
           radius: 16,
-          backgroundImage: NetworkImage(''),
+          backgroundImage: NetworkImage('https://picsum.photos/250?image=9'),
         )
       ],
     );
