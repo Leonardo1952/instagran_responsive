@@ -40,7 +40,8 @@ class PostWidget extends StatelessWidget {
               ],
             ),
           ),
-          Image.network('https://picsum.photos/250?image=1'),
+          Image.network(
+              'https://i.picsum.photos/id/271/1200/1200.jpg?hmac=USEgeP53_o8nrbKKW2bfr7zwf2ma4PBpKAUYm6lJntA'),
           Padding(
             padding: const EdgeInsets.fromLTRB(4, 4, 4, 4),
             child: Row(
