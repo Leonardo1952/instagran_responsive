@@ -12,7 +12,7 @@ Responsive Instagram foi um projeto realizado com o intuito de aprendizagem e pr
 
 ## Um pouco do resultado: :trophy:
 
-![Gif](https://github.com/Leonardo1952/instagran_responsive/blob/master/assets/demostration/video_demonstracao.gif)
+![Gif](https://github.com/Leonardo1952/responsiveWithFlutter/blob/master/assets/gif/video.gif)
 
 ## Ferramentas :hammer_and_wrench:	
 
